@@ -1,3 +1,6 @@
+%% Author: Javed Ali
+
+%% Load the water level data
 load WaterLevel_St_Pete_hourly.mat
 
 
